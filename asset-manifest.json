@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://gilliardrodrigues.github.io/task-management-frontend/static/css/main.985582f7.css",
+    "main.js": "https://gilliardrodrigues.github.io/task-management-frontend/static/js/main.b219107e.js",
+    "index.html": "https://gilliardrodrigues.github.io/task-management-frontend/index.html",
+    "main.985582f7.css.map": "https://gilliardrodrigues.github.io/task-management-frontend/static/css/main.985582f7.css.map",
+    "main.b219107e.js.map": "https://gilliardrodrigues.github.io/task-management-frontend/static/js/main.b219107e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.b219107e.js"
+  ]
+}
